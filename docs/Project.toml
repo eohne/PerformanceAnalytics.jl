@@ -1,0 +1,6 @@
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+YFinance = "e4b3b0a2-f9a3-42f3-aabb-32142cceaf77"
