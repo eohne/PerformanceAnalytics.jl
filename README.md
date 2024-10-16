@@ -9,6 +9,15 @@ Since I took a long break from this and never published it a new package has eme
 
 # List of all functions implemented:
 
+## Table of Contents
+- [Asset Price and Return Functions](#asset-price-and-return-functions)
+- [Statistical Measures](#statistical-measures)
+- [Risk Measures](#risk-measures)
+- [Performance Measures](#performance-measures)
+- [Factor Analysis Functions](#factor-analysis-functions)
+- [Risk Decomposition](#risk-decomposition)
+- [Utility Functions](#utility-functions)
+
 ## Asset Price and Return Functions
 
 - ```julia
